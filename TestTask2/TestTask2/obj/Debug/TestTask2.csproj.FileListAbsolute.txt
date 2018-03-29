@@ -5,3 +5,12 @@ D:\TestTask2\TestTask2\obj\Debug\TestTask2.csprojResolveAssemblyReference.cache
 D:\TestTask2\TestTask2\obj\Debug\TestTask2.csproj.CoreCompileInputs.cache
 D:\TestTask2\TestTask2\obj\Debug\TestTask2.exe
 D:\TestTask2\TestTask2\obj\Debug\TestTask2.pdb
+E:\Univer\6 семестр\ris\TestTask2\TestTask2\bin\Debug\TestTask2.exe.config
+E:\Univer\6 семестр\ris\TestTask2\TestTask2\bin\Debug\TestTask2.exe
+E:\Univer\6 семестр\ris\TestTask2\TestTask2\bin\Debug\TestTask2.pdb
+E:\Univer\6 семестр\ris\TestTask2\TestTask2\obj\Debug\TestTask2.csprojResolveAssemblyReference.cache
+E:\Univer\6 семестр\ris\TestTask2\TestTask2\obj\Debug\TestTask2.csproj.CoreCompileInputs.cache
+E:\Univer\6 семестр\ris\TestTask2\TestTask2\obj\Debug\TestTask2.exe
+E:\Univer\6 семестр\ris\TestTask2\TestTask2\obj\Debug\TestTask2.pdb
+E:\Univer\6 семестр\ris\TestTask2\TestTask2\bin\Debug\Yort.Ntp.dll
+E:\Univer\6 семестр\ris\TestTask2\TestTask2\bin\Debug\Yort.Ntp.xml

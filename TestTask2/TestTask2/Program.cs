@@ -10,6 +10,8 @@ namespace TestTask2
     {
         static void Main(string[] args)
         {
+            new Thread(new ThreadStart(GlobalTimeWorker.GetDate)).Start();
+
             using (var server = new UdpClient(8888))
             {
                 while (true)
@@ -17,7 +19,8 @@ namespace TestTask2
                     IPEndPoint ip = null;
                     byte[] data = server.Receive(ref ip);
                     string message = Encoding.UTF8.GetString(data);
-                    new Thread(new ParameterizedThreadStart(Worker.DoWork)).Start(message);
+                    var param = new ThreadParam { Message = message, Ip = ip };
+                    new Thread(new ParameterizedThreadStart(Worker.DoWork)).Start(param);
                 }
             }
         }

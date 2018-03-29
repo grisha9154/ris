@@ -1,7 +1,0 @@
-D:\TestTask\TestTask\bin\Debug\TestTask.exe.config
-D:\TestTask\TestTask\bin\Debug\TestTask.exe
-D:\TestTask\TestTask\bin\Debug\TestTask.pdb
-D:\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
-D:\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
-D:\TestTask\TestTask\obj\Debug\TestTask.exe
-D:\TestTask\TestTask\obj\Debug\TestTask.pdb

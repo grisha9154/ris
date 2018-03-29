@@ -1,0 +1,21 @@
+D:\TestTask\TestTask\bin\Debug\TestTask.exe.config
+D:\TestTask\TestTask\bin\Debug\TestTask.exe
+D:\TestTask\TestTask\bin\Debug\TestTask.pdb
+D:\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+D:\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+D:\TestTask\TestTask\obj\Debug\TestTask.exe
+D:\TestTask\TestTask\obj\Debug\TestTask.pdb
+E:\Univer\6 семестр\ris\TestTask\TestTask\bin\Debug\TestTask.exe.config
+E:\Univer\6 семестр\ris\TestTask\TestTask\bin\Debug\TestTask.exe
+E:\Univer\6 семестр\ris\TestTask\TestTask\bin\Debug\TestTask.pdb
+E:\Univer\6 семестр\ris\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+E:\Univer\6 семестр\ris\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+E:\Univer\6 семестр\ris\TestTask\TestTask\obj\Debug\TestTask.exe
+E:\Univer\6 семестр\ris\TestTask\TestTask\obj\Debug\TestTask.pdb
+E:\Univer\6 семестр\ris\client1\TestTask\bin\Debug\TestTask.exe.config
+E:\Univer\6 семестр\ris\client1\TestTask\bin\Debug\TestTask.exe
+E:\Univer\6 семестр\ris\client1\TestTask\bin\Debug\TestTask.pdb
+E:\Univer\6 семестр\ris\client1\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+E:\Univer\6 семестр\ris\client1\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+E:\Univer\6 семестр\ris\client1\TestTask\obj\Debug\TestTask.exe
+E:\Univer\6 семестр\ris\client1\TestTask\obj\Debug\TestTask.pdb
